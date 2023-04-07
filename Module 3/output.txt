@@ -1,0 +1,10 @@
+1-Odd
+2-even
+3-Odd
+4-even
+5-Odd
+6-even
+7-Odd
+8-even
+9-Odd
+10-even
