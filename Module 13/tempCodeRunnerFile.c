@@ -1,0 +1,6 @@
+   {
+            continue;;
+        
+        }
+        k++;   
+        printf("\n");
